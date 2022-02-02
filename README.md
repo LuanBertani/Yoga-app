@@ -5,9 +5,7 @@
 
 
 
-<img src="/assets/yogascreenshot.png" alt=" imagem">
 
->Resultado do projeto yoga
 
 ### Ajustes e melhorias
 
